@@ -103,7 +103,6 @@ main {
   display: inline-block; /* Ensure uniform size */
 }
 
-/* Ensure the container is centered above the job listings */
 /* Filter Container - Initially Hidden */
 #filter-container {
   display: none; /* Hidden by default */
